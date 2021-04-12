@@ -2097,8 +2097,8 @@
         ],
         "google": [
             {
-                "name": "",
-                "ref": "",
+                "name": "Anthos",
+                "ref": "https://cloud.google.com/anthos",
                 "icon": "none.png"
             }
         ],
